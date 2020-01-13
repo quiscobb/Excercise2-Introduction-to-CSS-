@@ -1,0 +1,21 @@
+p{
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    max-width: 500px;
+    margin: auto;
+    border: 10px black;
+    }
+body {background-color: darkgray;
+    max-width: 500px;
+    margin: auto;}
+.text1 { border: 5px solid rgb(0, 0, 0);
+    max-width: 500px;
+    margin: auto;}
+.standard {background-color: rgb(255, 255, 255); font-size: 15px;
+    max-width: 500px;
+    margin: auto;}
+img{width: 300px; height: 400px;
+    max-width: 500px;
+    margin: auto;}
+
