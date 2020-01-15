@@ -1,0 +1,75 @@
+body{
+    background-color: rgb(184, 184, 184);
+}
+h1{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: bold;
+    text-align: center;
+    padding-top: 125px;
+    background-image: url(mammoth.jpg);
+    height: 150px;
+    background-position: center center;
+    background-size: cover;
+    color: red
+}  
+h2{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    color:red;
+    margin: 0px;
+    float: none;
+}
+h3{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #d8d9de;
+    margin: 1px;
+    float: none;
+    background-color: red;
+    width: 105px;
+    height: auto;
+    border-radius: 1px;
+    border-style: ridge white;
+
+}
+ul li a{
+    color: red;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    margin: 0px;
+    float: none;
+    width: 50px;
+    height: auto;
+    border-radius: 1px;
+    border-style: ridge white;
+}
+ol li a{
+    color: red;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    margin: 1x;
+    float: none;
+    width: 50px;
+    height: auto;
+    border-radius: 1px;
+    border-style: ridge white;
+}
+img{
+    width: 300px;
+    height: 300px;
+    border: 8px solid #d8d9de;
+   padding: 5px;
+   border-radius: 100%;
+   opacity: .9;
+   position: relative;    
+   margin:auto;
+   top:0;
+   bottom:0;
+   left:0;
+   right:0;
+}
